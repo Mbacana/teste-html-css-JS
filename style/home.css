@@ -6,12 +6,12 @@
     font-family: 'Poppins', sans-serif;
     text-decoration: none;
 }
-/*
+
 body{
     background: #012b28;
     color: #ededed;
 
-}*/
+}
 
 /*topo da pag*/
 .header{
@@ -83,13 +83,14 @@ body{
 }
 
 .caixa_form{
-    background: red;
+    background: #b47049;
     position: relative;
     width: 400px;
     height: 450px;
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 10px;
 }
 
 .h2{
